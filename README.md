@@ -16,9 +16,8 @@ Here are some of the key features of the project:
 
 ## **Technologies Used**  
 The following technologies were used in this project:
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB / MySQL (or specify your database)  
+- **Frontend**: HTML, CSS, JavaScript   
+- **Database**: JSON  
 - **Version Control**: Git & GitHub  
 - **Package Manager**: npm  
 
